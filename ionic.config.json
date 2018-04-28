@@ -1,0 +1,8 @@
+{
+  "name": "stock-take",
+  "app_id": "619afe33",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
